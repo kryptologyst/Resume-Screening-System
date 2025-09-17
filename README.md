@@ -6,6 +6,8 @@ A sophisticated AI-powered resume screening system that uses state-of-the-art NL
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.28+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+<img width="784" height="786" alt="Screenshot 2025-09-11 at 11 31 07 PM" src="https://github.com/user-attachments/assets/d2dd200f-09ec-4d7b-8d7b-0b61517271f0" />
+
 ## Features
 
 ### Advanced NLP Techniques
