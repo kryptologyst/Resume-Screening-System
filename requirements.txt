@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+transformers
+torch
+plotly
+wordcloud
+python-docx
+PyPDF2
+spacy
+nltk
+fastapi
+uvicorn
+python-multipart
